@@ -1,5 +1,10 @@
 # HazardWarningProjectDemo
-Multiplayer trap based Battle Royal currently in development in Unity. I work on UI systems, Firebase integration, user data/settings, debugging, and multiplayer-related features within a four-person team. All photos shown are from the Alpha version of the game, and therefore mostly place holders as I set up the wiring between the components before I make everything look nice
+Developer: Kayden Forthman
+Role: UI, Firebase/Data Integration, Settings, and Multiplayer Integration
+
+Hazard Warning is a multiplayer, trap-based battle royale currently in development in Unity by a four-person team. My primary responsibilities include UI systems, Firebase integration, user profiles and persistent settings, debugging, and integration with multiplayer systems.
+This repository is a showcase of my contributions to the project rather than the full game repository. A public playable demo is not yet available.
+All screenshots are from the alpha version of the game. Many of the visual assets are placeholders because my work has primarily focused on implementing and connecting the underlying systems before finalizing the visual design.
 
 Main Page
 <img width="1728" height="1005" alt="image" src="https://github.com/user-attachments/assets/de6bee9a-5ac7-4fb6-9f7d-410b7f00329c" />
